@@ -56,4 +56,4 @@ Below are the listed files
 
 **Project 3**
 
-In this project, we'll be simulating a realistic workflow to refactor your previous BikeShare project using Git.
+In this project, we'll be simulating a realistic workflow to refactor the previous BikeShare project using Git.

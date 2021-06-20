@@ -14,6 +14,9 @@ Project Details :
 **PROJECT 01:**
 **Overview**
 
+<img width="803" alt="Screenshot 2021-06-20 at 11 28 23 PM" src="https://user-images.githubusercontent.com/48150581/122679881-37633600-d21f-11eb-98a7-f2e14ac5696c.png">
+
+
 This project consisted in the exploration of a provided database movie rentals in which the student had to run SQL queries and build visualizations to showcase the output of the student's queries.
 
 For the presentation component, the student had to create four slides, and each should have 
@@ -33,10 +36,12 @@ A set of questions have also been provided by Udacity so that we were free to co
 Project Submission. You can find the queries here.
 
 
-**PROJECT 02**
-
+**PROJECT 02** <br/>
 
 **Overview**
+
+<img width="817" alt="Screenshot 2021-06-20 at 11 29 18 PM" src="https://user-images.githubusercontent.com/48150581/122679905-582b8b80-d21f-11eb-936b-c8f187ce4e0c.png">
+
 
 In this project, the student had to make use of R Language to explore data related to bike share systems for three major cities in the United States — Chicago, New York City, and Washington. The student had to write code to <br/>
 
@@ -51,7 +56,7 @@ The developed CLI program allows the user to explore an US bikeshare system data
 The required files for running this program are: 
 Below are the listed files
 
-washington.csv
-new_york_city.csv
-chicago.csv
+1. washington.csv <br/>
+2. new_york_city.csv <br/>
+3. chicago.csv <br/>
 You can download the files here.

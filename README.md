@@ -56,4 +56,7 @@ Below are the listed files
 
 **Project 3**
 
-In this project, we'll be simulating a realistic workflow to refactor the previous BikeShare project using Git.
+In this project, we'll be simulating a realistic workflow to refactor the previous BikeShare project using Git.Here, you will learn important tools that all programmers
+use. First, you’ll get an introduction to working in the terminal. Next,
+you’ll learn to use git and Github to manage versions of a program
+and collaborate with others on programming projects.
